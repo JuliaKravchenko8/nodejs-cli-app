@@ -4,7 +4,7 @@
 
 node index.js --action list https://monosnap.com/file/tidHvFi4I0G2LRRxdM5PWzw40gpvHM
 
-node index.js --action get --id https://monosnap.com/file/tidHvFi4I0G2LRRxdM5PWzw40gpvHM
+node index.js --action get --id https://monosnap.com/file/xPXJnkWScD8cahkkzSiprbGFuiKk9D
 
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22 https://monosnap.com/file/7cNwLHPu8U53hgGnZpV4Ii6fERHFo2
 
